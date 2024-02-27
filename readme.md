@@ -27,12 +27,12 @@ It's about more than technical skills; it's about problem-solving, innovation, a
 * 👉 Engage in a role-play or discussion to explain a technical issue to a non-technical stakeholder.
 
 ## Deliverables
-- Summary of the Openfabric AI platform's key features and testing challenges.
-- Set of test cases for a specified module or feature.
-- Bug report document.
-- Automation script.
-- Response to the problem-solving scenario.
-- One-page stakeholder communication simulation.
+- Summary of the Openfabric AI platform's [key features](https://github.com/atiwari0209/openfabric-software-test-engineer/blob/main/documentation-review/key-features.md) and [testing challenges](https://github.com/atiwari0209/openfabric-software-test-engineer/blob/main/documentation-review/testing-challenges.md).
+- [Set of test cases for a specified module or feature](https://github.com/atiwari0209/openfabric-software-test-engineer/blob/main/test-cases/test-cases.md).
+- [Bug report document](https://github.com/atiwari0209/openfabric-software-test-engineer/blob/main/bug-report/bug-report.md).
+- [Automation script](https://github.com/atiwari0209/openfabric-software-test-engineer/blob/main/test-script/OpenfabricTest.java).
+- [Response to the problem-solving scenario](https://github.com/atiwari0209/openfabric-software-test-engineer/blob/main/problem-solving-methodology/problem-solving-metholodogy.md).
+- [One-page stakeholder communication simulation](https://github.com/atiwari0209/openfabric-software-test-engineer/blob/main/non-tech-stakeholder-communication/non-technical-stakeholder-communication.md).
 
 ## Proving Your Mettle
 
